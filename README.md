@@ -1,0 +1,2 @@
+# odooapps
+odoo woocommerce connector
